@@ -1,4 +1,4 @@
-# AlphaZero的pytorch实现
+# AlphaZero玩N子棋的pytorch实现
 
 参考自： https://github.com/junxiaosong/AlphaZero_Gomoku
 
